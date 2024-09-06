@@ -56,8 +56,6 @@ conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvi
 pip install opencv-python tqdm json-tricks
 ```
 
-On DGX/RSC: Activate the latest conda environment to meet these dependencies.
-
 ## 🌟 Sapiens-Lite Inference
 
 Note: For inference in `bfloat16` or `float16` mode:
