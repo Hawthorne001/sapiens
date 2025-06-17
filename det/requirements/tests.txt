@@ -15,7 +15,7 @@ onnx>=1.16.0
 onnxruntime>=1.8.0
 parameterized
 prettytable
-protobuf<=3.20.1
+protobuf<=6.31.1
 psutil
 pytest
 transformers
